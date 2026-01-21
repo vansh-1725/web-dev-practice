@@ -1,0 +1,81 @@
+header{
+    width: 1000px;
+    min-height: 180px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.box1{
+    width: 1000px;
+    height: 110px;
+    background-color: gray;
+}
+.box2{
+    width: 1000px;
+    height: 50px;
+    background-color: gray;
+   
+}
+main{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;   
+    margin: auto;
+    margin-bottom: 20px;
+}
+.left{
+    width: 650px;
+    height: 1240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.blog{
+    width: 650px;
+    height: 400px;
+    background-color: gray;
+}
+.right{
+    height: 1240px;
+    width: 310px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.news{
+    background-color: gray;
+    width: 310px;
+    height: 200px;
+}
+.extra-content{
+    background-color: gray;
+    width: 310px;
+    height: 370px;    
+}
+.right1{
+    width: 310px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.right1 .box3{
+    background-color: gray;
+    width: 145px;
+}
+.meadia-links{
+    width: 310px;
+    background-color: gray;
+    height: 200px;
+}
+.footer{
+    margin: auto;
+    text-align: center;
+    width: 1000px;
+    height: 110px;
+    background-color: gray;
+}
