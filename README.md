@@ -11,7 +11,7 @@ Currently, I am learning and practicing:
 
 flexbox/
 - layout-1 : Flexbox layout practice
-- layout-2 : Flexbox layout practice
+- layout-2 : Blog and sidebar layout using Flexbox
 
 Each layout folder contains:
 - index.html
