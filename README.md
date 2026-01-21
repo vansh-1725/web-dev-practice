@@ -36,7 +36,7 @@ Each layout folder contains:
 ### 🔹 Layout 1
 Basic Flexbox layout practice with nested flex containers and spacing.
 
-![Layout 1 Screenshot](flexbox/layout-1/image.png)
+![Layout 1 Screenshot](flexbox/layout1/image.png)
 
 ---
 
@@ -47,7 +47,7 @@ Blog and sidebar layout using Flexbox, including:
 - Sidebar with multiple sections
 - Footer
 
-![Layout 2 Screenshot](flexbox/layout-2/image.png)
+![Layout 2 Screenshot](flexbox/layout2/image.png)
 
 ---
 
